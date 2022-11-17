@@ -13,5 +13,5 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/NotAlpha45/count.svg)
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotAlpha45&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="NotAlpha45" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAlpha45&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="NotAlpha45" align = "center"/></p>
+<p><img height="200em" src="https://github-readme-stats.vercel.app/api?username=NotAlpha45&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="NotAlpha45"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAlpha45&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="NotAlpha45"/></p>
