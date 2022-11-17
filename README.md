@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=435&lines=An+explorer+at+heart+❤;Qustionable+existence+3.0+🤔)](https://git.io/typing-svg)
 
-<br>
 
 ## About Me 👽
 
