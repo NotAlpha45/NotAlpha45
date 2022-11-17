@@ -3,13 +3,13 @@
 <p>An explorer at heart</p>
 <p>Questionable existence 3.0</p>
 
-## About Me
+## About Me 👽
 
 🎓 Studying Software Engineering at <a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology (IUT), Dhaka, Bangladesh</a>
 
 <br>
 
-## My Status
+## My Status 💻
 
 ![VisitorCount](https://profile-counter.glitch.me/NotAlpha45/count.svg)
 
