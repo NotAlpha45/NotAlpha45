@@ -25,5 +25,5 @@
 <br>
   
 <summary><b>🏆 Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ajwad-abrar"><img src="https://github-profile-trophy.vercel.app/?username=NotAlpha45&margin-w=5&theme=radical" alt="NotAlpha45" /></a> </p>
+<p align="center"> <a href="https://github.com/NotAlpha45"><img src="https://github-profile-trophy.vercel.app/?username=NotAlpha45&margin-w=5&theme=radical" alt="NotAlpha45" /></a> </p>
 </p>
