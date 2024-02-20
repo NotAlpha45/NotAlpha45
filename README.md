@@ -16,7 +16,7 @@
 <p><img height="200em" src="https://github-readme-stats.vercel.app/api?username=NotAlpha45&hide_border=true&count_private=true&show_icons=true&theme=codeSTACKr" alt="NotAlpha45"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAlpha45&show_icons=true&locale=en&layout=compact&hide_border=true&theme=codeSTACKr" alt="NotAlpha45"/></p>
 
-[![My Activity](https://github-readme-activity-graph.vercel.app/graph?username=NotAlpha4500710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Activity](https://github-readme-activity-graph.vercel.app/graph?username=NotAlpha45&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p>
