@@ -5,7 +5,7 @@
 
 ## About Me 👽
 
-🎓 Studying Software Engineering at <a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology (IUT), Dhaka, Bangladesh</a>
+🎓 Graduated from <a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology (IUT), Dhaka, Bangladesh</a>
 
 <br>
 
