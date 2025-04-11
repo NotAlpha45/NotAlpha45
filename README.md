@@ -31,6 +31,7 @@
 <br>
 
 <summary><b>Language and Tools 🛠</b></summary>
+
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,svelte,nodejs,express,html,css,sass,tailwind,bootstrap,jest,python,sklearn,pytorch,tensorflow,fastapi,django,anaconda,selenium,java,bash,powershell,mysql,figma,git,github,latex,windows,linux,docker,mongodb,firebase,p5js&theme=dark)](https://skillicons.dev)
 
 </p>
