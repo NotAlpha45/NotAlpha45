@@ -61,7 +61,7 @@ I'm a **Software Engineer** and **AI Researcher** passionate about building scal
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### And Many More...🧠
+### And Many More...
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,svelte,nodejs,express,html,css,sass,tailwind,bootstrap,jest,python,sklearn,pytorch,tensorflow,fastapi,django,anaconda,selenium,java,bash,powershell,mysql,figma,git,github,latex,windows,linux,docker,mongodb,firebase,p5js&theme=dark)](https://skillicons.dev)
 
 # Status 💻
@@ -87,3 +87,6 @@ I'm a **Software Engineer** and **AI Researcher** passionate about building scal
 # Achievements
 
 <a href="https://github.com/NotAlpha45"><img src="https://github-profile-trophy.vercel.app/?username=NotAlpha45&margin-w=5&theme=radical" alt="NotAlpha45" /></a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
