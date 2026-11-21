@@ -1,92 +1,116 @@
-<h1>Hello There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=435&lines=An+explorer+at+heart+❤;Qustioning+existence+3.0+🤔)](https://git.io/typing-svg)
+<!-- 🔧 Replace LINKEDIN_HANDLE with your LinkedIn handle -->
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](your-scholar-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashrurmaheen@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maheen&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20MEng%20%40%20UCalgary&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Shipping+production+RAG+systems;Building+agentic+AI+workflows;Researching+retrieval-augmented+classification;Turning+messy+data+into+working+products" alt="Typing SVG" /></a>
+
+<p>
+  <a href="mailto:mashrurmaheen@gmail.com"><img src="https://img.shields.io/badge/Email-mashrurmaheen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Calgary-Alberta-red?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=NotAlpha45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
-# About Me 👽
+---
 
-I'm a **Software Engineer** and **AI Researcher** passionate about building scalable applications and advancing AI-driven solutions. With a strong foundation in transformer-based models and full-stack development, I bridge the gap between cutting-edge research and production-ready software.
+## 👨‍💻 About Me
 
-🎓 Graduated from <a href="https://www.iutoic-dhaka.edu/">Islamic University of Technology (IUT), Dhaka, Bangladesh</a>
+```python
+class Maheen:
+    role       = "AI/ML Engineer"
+    education  = ["MEng, Electrical & Software Eng @ University of Calgary",
+                  "BSc, Software Engineering @ Islamic University of Technology"]
+    base       = "Calgary, AB 🇨🇦"
+    shipped    = ["Production RAG systems", "AI agents & APIs"]
+    research   = ["Multimodal garbage classification (DNDS)", "Asteroid classification"]
+    papers     = 4
+    open_to    = ["AI/ML contract & freelance", "Co-op from May 2027", "Remote CA/US"]
 
-# 🛠️ Tech Stack
+    def philosophy(self):
+        return "Meaning lives in what you build and what you take responsibility for."
+```
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- 🔭 **Building:** retrieval-augmented systems, agentic workflows, and APIs that hold up in production
+- 🔬 **Research:** Retrieval-Augmented Classification with **Density-Normalized Distance Scoring** (+4.01% macro-F1 over a fusion baseline)
+- 🤝 **Looking for:** AI/ML contract roles and a **May 2027 co-op** (Schulich MEng Internship Program)
+- 📫 **Reach me:** mashrurmaheen@gmail.com
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+---
 
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## 🛠️ Tech Stack
 
-### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![Langchain](https://img.shields.io/badge/🦜_Langchain-1C3C3C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<div align="center">
 
-### Databases & Vector Stores
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Languages & Frameworks**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp,dotnet,react,fastapi,nodejs&perline=9" />
 
-### And Many More...
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,svelte,nodejs,express,html,css,sass,tailwind,bootstrap,jest,python,sklearn,pytorch,tensorflow,fastapi,django,anaconda,selenium,java,bash,powershell,mysql,figma,git,github,latex,windows,linux,docker,mongodb,firebase,p5js&theme=dark)](https://skillicons.dev)
+**AI / ML**
 
-# Status 💻
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=9" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agno-6E40C9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCLIP-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NotAlpha45&color=blueviolet&style=for-the-badge)
+**Data, DevOps & Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAlpha45&layout=compact&theme=radical&hide_border=true)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux,latex,vscode&perline=9" />
 
-<p><img height="200em" src="https://github-readme-stats.vercel.app/api?username=NotAlpha45&hide_border=true&count_private=true&show_icons=true&theme=codeSTACKr" alt="NotAlpha45"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAlpha45&show_icons=true&locale=en&layout=compact&hide_border=true&theme=codeSTACKr" alt="NotAlpha45"/></p>
+</div>
 
-[![My Activity](https://github-readme-activity-graph.vercel.app/graph?username=NotAlpha45&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+## 🚀 Featured Work
 
+| Project | What it does | Stack |
+|---|---|---|
+| **DNDS Garbage Classifier** | Two-phase multimodal classifier; Phase 2 swaps fusion for retrieval with 5 DNDS scoring variants | PyTorch · MobileNetV3 · DistilBERT · OpenCLIP · ChromaDB |
+| **Grow8** | Community work-experience platform aligned with UN SDG 8 | Full-stack · SQL |
 
+<!-- Pin these repos on your profile, or swap the rows for repo cards:
+<a href="https://github.com/NotAlpha45/REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NotAlpha45&repo=REPO&theme=tokyonight&hide_border=true"/></a>
+-->
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NotAlpha45&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="NotAlpha45" />
-</p>
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-# Achievements
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NotAlpha45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAlpha45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<a href="https://github.com/NotAlpha45"><img src="https://github-profile-trophy.vercel.app/?username=NotAlpha45&margin-w=5&theme=radical" alt="NotAlpha45" /></a>
+<img src="https://streak-stats.demolab.com?user=NotAlpha45&theme=tokyonight&hide_border=true" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NotAlpha45&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=NotAlpha45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 📚 Research
+
+- 🧪 **Retrieval-Augmented Classification with Density-Normalized Distance Scoring** — Global DNDS and KDE-DNDS beat a MobileNetV3 + DistilBERT fusion baseline by **+4.01% macro-F1**
+- 🌌 **Asteroid classification** with machine learning
+- 📄 **4 publications** from undergraduate research at IUT
+
+---
+
+<div align="center">
+
+<i>"Build things that matter. Own what you ship."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+
+</div>
